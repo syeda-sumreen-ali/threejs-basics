@@ -1,0 +1,18 @@
+body {
+    margin: 0px;
+    background-color: black;
+  }
+  
+  #koch {
+    display: flex;
+    width: 540px;
+    height: auto;
+    margin: -70px auto;
+  }
+  .container{
+    display: flex;
+    align-self: center;
+    width:  100vw;
+    
+    height: 100%;
+  }
